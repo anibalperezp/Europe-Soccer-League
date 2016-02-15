@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:paddingTop="0dp" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="0dp"
+                android:layout_y="0dp"
+                android:src="@drawable/fondo_detalles_premier_large" />
+
+            <TextView
+                android:id="@+id/jore27"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="10dp"
+                android:layout_y="10dp"
+                android:text="Jornada 27"
+                android:textColor="#C6E1E9"
+                android:textSize="13dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/reste27"
+                android:layout_width="230dp"
+                android:layout_height="23dp"
+                android:layout_x="46dp"
+                android:layout_y="120dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <HorizontalScrollView
+                android:id="@+id/horizontalScrollView1"
+                android:layout_width="259dp"
+                android:layout_height="28dp"
+                android:layout_x="45dp"
+                android:layout_y="167dp"
+                android:scrollbars="horizontal" >
+
+                <TextView
+                    android:id="@+id/dge27"
+                    android:layout_width="wrap_content"
+                    android:layout_height="28dp"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="#FFFF"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+
+            </HorizontalScrollView>
+            
+            <HorizontalScrollView
+                android:id="@+id/horizontalScrollView1"
+                android:layout_width="259dp"
+                android:layout_height="28dp"
+                android:layout_x="45dp"
+                android:layout_y="198dp"
+                android:scrollbars="horizontal" >
+
+                <TextView
+                    android:id="@+id/dae27"
+                    android:layout_width="wrap_content"
+                    android:layout_height="28dp"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="#FFFF"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+
+            </HorizontalScrollView>
+            
+            <HorizontalScrollView
+                android:id="@+id/horizontalScrollView1"
+                android:layout_width="259dp"
+                android:layout_height="28dp"
+                android:layout_x="45dp"
+                android:layout_y="231dp"
+                android:scrollbars="horizontal" >
+
+                <TextView
+                    android:id="@+id/dre27"
+                    android:layout_width="wrap_content"
+                    android:layout_height="28dp"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="#FFFF"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+             
+             </HorizontalScrollView>
+             
+            <HorizontalScrollView
+                android:id="@+id/horizontalScrollView1"
+                android:layout_width="259dp"
+                android:layout_height="28dp"
+                android:layout_x="45dp"
+                android:layout_y="262dp"
+                android:scrollbars="horizontal" >
+
+                <TextView
+                    android:id="@+id/dlse27"
+                    android:layout_width="wrap_content"
+                    android:layout_height="28dp"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="#FFFF"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+             
+             </HorizontalScrollView>
+            
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:layout_x="13dp"
+                android:layout_y="169dp"
+                android:background="@drawable/detalles_gol" />
+            
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:layout_x="14dp"
+                android:layout_y="200dp"
+                android:background="@drawable/detalles_amarilla" />
+            
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:layout_x="14dp"
+                android:layout_y="232dp"
+                android:background="@drawable/detalles_roja" />
+            
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:layout_x="14dp"
+                android:layout_y="264dp"
+                android:background="@drawable/detalles_lesion" />
+            
+        </AbsoluteLayout>
+    </ScrollView>
+
+</AbsoluteLayout>

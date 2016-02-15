@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:orientation="vertical"
+    android:paddingTop="0dp" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="360dp"
+                android:layout_height="1050dp"
+                android:src="@drawable/registro" />
+
+            <Spinner
+                android:id="@+id/spinnerbbva"
+                android:layout_width="114dp"
+                android:layout_height="52dp"
+                android:layout_x="136dp"
+                android:layout_y="454dp"
+                android:gravity="top" />
+            
+            <Spinner
+                android:id="@+id/spinnercalcio"
+                android:layout_width="114dp"
+                android:layout_height="52dp"
+                android:layout_x="136dp"
+                android:layout_y="540dp"
+                android:gravity="top" />
+            
+            <Spinner
+                android:id="@+id/spinnerpemier"
+                android:layout_width="114dp"
+                android:layout_height="52dp"
+                android:layout_x="136dp"
+                android:layout_y="630dp"
+                android:gravity="top" />
+            
+            <Spinner
+                android:id="@+id/spinnerbundes"
+                android:layout_width="114dp"
+                android:layout_height="52dp"
+                android:layout_x="136dp"
+                android:layout_y="720dp"
+                android:gravity="top" />
+            
+            <EditText
+                android:id="@+id/editTextNombre"
+                android:layout_width="315dp"
+                android:layout_height="36dp"
+                android:layout_x="20dp"
+                android:layout_y="169dp"
+                android:gravity="top|left"
+                android:inputType="text|textPersonName" >
+
+                <requestFocus />
+            </EditText>
+            
+            <EditText
+                android:id="@+id/editTextDireccion"
+                android:layout_width="315dp"
+                android:layout_height="65dp"
+                android:layout_x="20dp"
+                android:layout_y="250dp"
+                android:gravity="top|left"
+                android:inputType="textMultiLine" >
+            </EditText>
+
+            <CheckBox
+                android:id="@+id/checkBoxbbva"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="18dp"
+                android:layout_y="457dp" />
+            
+            <CheckBox
+                android:id="@+id/checkBoxcalcio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="18dp"
+                android:layout_y="547dp" />
+            
+            <CheckBox
+                android:id="@+id/checkBoxpremier"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="18dp"
+                android:layout_y="637dp" />
+            
+            <CheckBox
+                android:id="@+id/checkBoxbundes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="18dp"
+                android:layout_y="727dp" />
+            
+            <CheckBox
+                android:id="@+id/checkBoxnews"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="18dp"
+                android:layout_y="821dp" />
+            
+            <CheckBox
+                android:id="@+id/checkBoxbbvanews"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="284dp"
+                android:layout_y="457dp" />
+            
+            <CheckBox
+                android:id="@+id/checkBoxcalcionews"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="284dp"
+                android:layout_y="547dp" />
+            
+            <CheckBox
+                android:id="@+id/checkBoxpremiernews"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="284dp"
+                android:layout_y="637dp" />
+            
+            <CheckBox
+                android:id="@+id/checkBoxbundesnews"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="284dp"
+                android:layout_y="727dp" />
+            
+             <Button
+                 android:id="@+id/btnayuda"
+                 android:layout_width="69dp"
+                 android:layout_height="23dp"
+                 android:layout_x="261dp"
+                 android:layout_y="340dp"
+                 android:background="@drawable/btn_ayuda" />
+            
+            <Button
+                android:id="@+id/btnpacks"
+                android:layout_width="338dp"
+                android:layout_height="35dp"
+                android:layout_x="11dp"
+                android:layout_y="934dp"
+                android:background="@drawable/btn_packs1" />
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="338dp"
+                android:layout_height="wrap_content"
+                android:layout_x="11dp"
+                android:layout_y="979dp"
+                android:text="Regístrate" />
+
+            <TextView
+                android:id="@+id/rvc"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_x="264dp"
+                android:layout_y="899dp"
+                android:text="0.0"
+                android:textColor="#fff"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+            
+            <TextView
+                android:id="@+id/rvc"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_x="304dp"
+                android:layout_y="899dp"
+                android:text="(cuc)"
+                android:textColor="#fff"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+           
+            
+        </AbsoluteLayout>
+    </ScrollView>
+
+</AbsoluteLayout>

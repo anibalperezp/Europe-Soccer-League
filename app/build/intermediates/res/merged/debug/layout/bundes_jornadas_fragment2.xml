@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:orientation="vertical"
+    android:paddingTop="4dp" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top" >
+            
+            <Button
+                android:id="@+id/btnalej"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="0dp"
+                android:background="#B20036"
+                android:text="Enero"
+                android:textSize="18dp" android:textColor="#FFFF"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnalej18"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="38dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 30 (Jornada 18)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej19"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="114dp"
+                android:background="@drawable/btnj1"
+                android:text="Martes 3 (Jornada 19)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej20"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="152dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 6 (Jornada 20)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej21"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="190dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 13 (Jornada 21)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="76dp"
+                android:background="#50A200"
+                android:text="Febrero"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnalej22"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="228dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 20 (Jornada 22)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej23"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="266dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 27 (Jornada 23)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej24"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="342dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 6 (Jornada 24)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej25"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="380dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 13 (Jornada 25)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="304dp"
+                android:background="#6D5C94"
+                android:text="Marzo"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnalej26"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="418dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 20 (Jornada 26)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej27"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="494dp"
+                android:background="@drawable/btnj1"
+                android:text="Sábado 4 (Jornada 27)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej28"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="532dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 10 (Jornada 28)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej29"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="570dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 17 (Jornada 29)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="456dp"
+                android:background="#DE5D94"
+                android:text="Abril"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnalej30"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="608dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 24 (Jornada 30)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej31"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="684dp"
+                android:background="@drawable/btnj1"
+                android:text="Sábado 2 (Jornada 31)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej32"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="722dp"
+                android:background="@drawable/btnj1"
+                android:text="Viernes 8 (Jornada 32)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej33"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="760dp"
+                android:background="@drawable/btnj1"
+                android:text="Sábado 16 (Jornada 33)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej34"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="798dp"
+                android:background="@drawable/btnj1"
+                android:text="Sábado 23 (Jornada 34)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnalej"
+                android:layout_width="320dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="646dp"
+                android:background="#005677"
+                android:text="Mayo"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+        </AbsoluteLayout>
+    </ScrollView>
+
+</AbsoluteLayout>

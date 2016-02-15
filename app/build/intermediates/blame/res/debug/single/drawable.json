@@ -1,0 +1,782 @@
+[
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\premier_history.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\premier_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_arsenal.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_arsenal.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_levante.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_levante.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_ranking_bbva.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_ranking_bbva.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_lesion.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_lesion.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_premier_empates.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_premier_empates.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_leiceste.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_leiceste.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_stuttgart.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_stuttgart.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tabla_bundes.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\tabla_bundes.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_aston.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_aston.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calcio_history.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\calcio_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_granada.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_granada.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_cagliari.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_cagliari.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_mainz.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_mainz.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_inter.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_inter.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aps3.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\aps3.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_malaga.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_malaga.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_premier1.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_premier1.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_ranking_calcio.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_ranking_calcio.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_transp.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\btn_transp.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bbva_victorias.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bbva_victorias.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_calcio_amarillas.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_calcio_amarillas.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_osasuna.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_osasuna.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lateral_calcio_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\lateral_calcio_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_esp.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_esp.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bundes_history.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\bundes_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_juve.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_juve.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_wolfsburgo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_wolfsburgo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ok.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_chievo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_chievo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_packs2.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\btn_packs2.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tabla_bbva.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\tabla_bbva.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_comentario.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_comentario.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_bbva_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_bbva_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_genoa.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_genoa.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_premier.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_premier.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_city.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_city.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_udinese.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_udinese.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_lazio.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_lazio.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_milam.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_milam.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bundes_goles.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bundes_goles.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_atlbilbao.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_atlbilbao.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_rumores.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_rumores.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_calcio_384.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_calcio_384.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bbva_rojas.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bbva_rojas.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondos_partidos.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondos_partidos.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lateral_premier2_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\lateral_premier2_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bundes_amarillas.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bundes_amarillas.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_atalanta.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_atalanta.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_champions.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_champions.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_sociedad.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_sociedad.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_tras.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_tras.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ayuda.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\btn_ayuda.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_elche.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_elche.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ayuda.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\ayuda.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bbva1.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bbva1.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_southampton.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_southampton.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_hamburgo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_hamburgo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lateral_calcio2_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\lateral_calcio2_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_crystal.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_crystal.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_fiore.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_fiore.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_colonia.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_colonia.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_eibar.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_eibar.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_bundes_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_bundes_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bbva_empates.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bbva_empates.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_premio.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_premio.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registro.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\registro.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_noticias.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_noticias.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bbva_fondo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bbva_fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_tottenham.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_tottenham.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lateral_registro.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\lateral_registro.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_napoles.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_napoles.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_noticias_bbva.jpg",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_noticias_bbva.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_sancion.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_sancion.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_stoke.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_stoke.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondos_partidos2.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondos_partidos2.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_premier_fondo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_premier_fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_parma.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_parma.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_bayern.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_bayern.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_united.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_united.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_getafe.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_getafe.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_bundes_384.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_bundes_384.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_posp.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_posp.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_hannover.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_hannover.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lateral_bbva_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\lateral_bbva_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\p_principal.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\p_principal.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detalles_amarilla.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\detalles_amarilla.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_almeria.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_almeria.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lateral_premier_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\lateral_premier_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lateral_bbva2_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\lateral_bbva2_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_calcio_victorias.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_calcio_victorias.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_calcio_empates.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_calcio_empates.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_detalles.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_detalles.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paquetes.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\paquetes.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_santander.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_santander.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_fifa.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_fifa.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_celtavigo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_celtavigo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnj2.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\btnj2.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_hoffenheim.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_hoffenheim.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_swansea.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_swansea.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_sampdoria.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_sampdoria.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_mgladbach.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_mgladbach.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_empoli.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_empoli.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_hull.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_hull.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_chelsea.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_chelsea.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_friburgo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_friburgo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_premier_goles.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_premier_goles.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chistory2.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\btn_chistory2.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lateral_bundes_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\lateral_bundes_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_cesena.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_cesena.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bundes1.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bundes1.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ayuda2.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\btn_ayuda2.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_calcio_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_calcio_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_premier_384.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_premier_384.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_leverkusen.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_leverkusen.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_noticias_premier.jpg",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_noticias_premier.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_zaragoza.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_zaragoza.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ita.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_ita.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_valladolid.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_valladolid.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\premier_page.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\premier_page.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lateral_bundes2_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\lateral_bundes2_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_valencia.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_valencia.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_westham.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_westham.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_dortmund.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_dortmund.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bbva_amarillas.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bbva_amarillas.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detalles_roja.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\detalles_roja.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_noticias_bundes.jpg",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_noticias_bundes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_premier_amarillas.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_premier_amarillas.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_paderborn.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_paderborn.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_palermo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_palermo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_madrid.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_madrid.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bbva_goles.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bbva_goles.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_roma.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_roma.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calcio_page.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\calcio_page.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_premier_rojas.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_premier_rojas.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bundes_empates.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bundes_empates.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_villareal.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_villareal.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_bromwich.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_bromwich.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_packs1.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\btn_packs1.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\but1.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\but1.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chistory1.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\btn_chistory1.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_augsburgo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_augsburgo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_sevilla.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_sevilla.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_bundes.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_bundes.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_noticias_calcio.jpg",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_noticias_calcio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_newcastle.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_newcastle.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_ranking_bundes.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_ranking_bundes.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bbva_history.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\bbva_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_calcio.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_calcio.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_atlmadrid.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_atlmadrid.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_torino.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_torino.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_calcio_fondo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_calcio_fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bundes_rojas.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bundes_rojas.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_ranking_premier.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_ranking_premier.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_bbva_384.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_bbva_384.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\noticias_fondo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\noticias_fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_premier_victorias.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_premier_victorias.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_calcio_goles.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_calcio_goles.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chistory3.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\btn_chistory3.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_cordoba.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_cordoba.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bundes_victorias.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bundes_victorias.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_hellas.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_hellas.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_bundes_fondo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_bundes_fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_bremen.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_bremen.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_sunderland.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_sunderland.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aps2.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\aps2.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_noticias.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_noticias.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_betis.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_betis.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bbva_page.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\bbva_page.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_altas.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_altas.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_appsport.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_appsport.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_vallecano.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_vallecano.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_liverpool.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_liverpool.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_eng.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_eng.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_everton.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_everton.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detalles_lesion.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\detalles_lesion.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_ale.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\logo_ale.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_barca.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_barca.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_hertha.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_hertha.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnj1.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\btnj1.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_premier_large.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_premier_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_burnley.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_burnley.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_eintracht.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_eintracht.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_detalles_bbva.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\fondo_detalles_bbva.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_calcio_rojas.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_calcio_rojas.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_queens.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_queens.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bundes_page.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\bundes_page.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detalles_gol.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\detalles_gol.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\est_calcio1.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\est_calcio1.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_sassuolo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_sassuolo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_deportivo.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_deportivo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_shalke.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_shalke.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\escudo_espanol.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\escudo_espanol.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quejas.png",
+        "source": "C:\\Users\\Owner\\StudioProjects\\Ligas14Estadisticas\\app\\src\\main\\res\\drawable\\quejas.png"
+    }
+]

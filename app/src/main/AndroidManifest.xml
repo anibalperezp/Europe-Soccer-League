@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ligas14estadisticas"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS"/>
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_ok"
+        android:label="@string/app_name"
+        android:logo="@drawable/logo_ok"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.ligas14estadisticas.Premierfechaj9Activity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity><activity android:name="com.example.ligas14estadisticas.NoticiasIntActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.SugerenciasActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.DetCalcioActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.DetPremierActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.DetBBVAActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.PremierRankingActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.DetbActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.SpainActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.AlemaniaActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticaslandActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticasliaActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAJornadasActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.PremierJornadasActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.CalcioJornadasActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticasesJornadasActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticiasActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticiasEspActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticiasItaActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticiasAleActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticee1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticee2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticee3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticee4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticee5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticee6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticee7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticee8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticee9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticee10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Notices1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Notices2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Notices3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Notices4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Notices5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Notices6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Notices7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Notices8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Notices9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Notices10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticei1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticei2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticei3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticei4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticei5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticei6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticei7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticei8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticei9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticei10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticea1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticea2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticea3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticea4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticea5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticea6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticea7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticea8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticea9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Noticea10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticeInt1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticeInt2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticeInt3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticeInt4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticeInt5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticeInt6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticeInt7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticeInt8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticeInt9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.NoticeInt10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.RegistActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVArankingActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticasesRankingActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.CalcioRankingActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAHistoriaActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAHistoriaTablaActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticasesHistoriaActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticasesHistoriaTablaActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.PremierHistoriaActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.CalcioHistoriaActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAEstadisticActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticasesEstadisticActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.PremierEstadisticActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.CalcioEstadisticActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.AyudaActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Ayuda2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.PacksActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha11Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha12Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha13Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha14Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha15Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha16Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha17Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha18Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha19Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha20Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha21Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha22Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha23Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha24Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha25Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha26Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha27Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha28Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha29Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha30Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha31Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha32Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha33Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfecha34Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad11Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad12Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad13Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad14Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad15Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad16Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad17Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad18Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad19Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad20Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad21Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad22Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad23Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad24Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad25Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad26Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad27Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad28Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad29Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad30Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad31Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad32Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad33Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechad34Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha11Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha12Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha13Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha14Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha15Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha16Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha17Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha18Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha19Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha20Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha21Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha22Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha23Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha24Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha25Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha26Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha27Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha28Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha29Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha30Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha31Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha32Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha33Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha34Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha35Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha36Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha37Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfecha38Activity" >
+        </activity>
+        <receiver android:name="com.example.ligas14estadisticas.BBVAfechaj9Activity" >
+        <intent-filter>
+        <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+        
+        <action android:name="android.intent.action.BOOT_COMPLETED" /></intent-filter>
+        </receiver>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad11Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad12Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad13Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad14Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad15Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad16Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad17Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad18Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad19Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad20Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad21Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad22Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad23Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad24Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad25Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad26Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad27Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad28Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad29Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad30Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad31Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad32Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad33Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad34Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad35Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad36Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad37Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechad38Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.CalcioHistoriaTablaActivity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj8Activity" >
+        </activity>
+	    <activity android:name="com.example.ligas14estadisticas.Bundfechaj9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj11Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj12Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj13Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj14Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj15Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj16Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj17Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj18Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj19Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj20Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj21Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj22Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj23Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj24Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Bundfechaj25Activity" >
+        </activity>
+	    <activity android:name="com.example.ligas14estadisticas.BBVAfechaj1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj11Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj12Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj13Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj14Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj15Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj16Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj17Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj18Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj19Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj20Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj21Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj22Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj23Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj24Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.BBVAfechaj25Activity" >
+        </activity>
+		<activity android:name="com.example.ligas14estadisticas.Calciofechaj1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj8Activity" >
+        </activity>
+		<activity android:name="com.example.ligas14estadisticas.Calciofechaj9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj11Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj12Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj13Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj14Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj15Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj16Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj17Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj18Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj19Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj20Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj21Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj22Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj23Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj24Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofechaj25Activity" >
+        </activity>
+		<activity android:name="com.example.ligas14estadisticas.Premierfechaj1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj11Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj12Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj13Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj14Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj15Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj16Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj17Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj18Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj19Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj20Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj21Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj22Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj23Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj24Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechaj25Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha11Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha12Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha13Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha14Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha15Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha16Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha17Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha18Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha19Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha20Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha21Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha22Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha23Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha24Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha25Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha26Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha27Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha28Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha29Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha30Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha31Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha32Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha33Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha34Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha35Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha36Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha37Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfecha38Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad1Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad2Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad3Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad4Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad5Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad6Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad7Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad8Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad9Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad10Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad11Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad12Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad13Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad14Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad15Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad16Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad17Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad18Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad19Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad20Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad21Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad22Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad23Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad24Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad25Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad26Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad27Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad28Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad29Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad30Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad31Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad32Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad33Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad34Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad35Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad36Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad37Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Premierfechad38Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad1Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad2Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad3Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad4Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad5Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad6Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad7Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad8Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad9Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad10Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad11Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad12Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad13Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad14Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad15Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad16Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad17Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad18Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad19Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad20Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad21Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad22Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad23Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad24Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad25Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad26Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad27Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad28Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad29Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad30Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad31Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad32Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad33Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad34Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad35Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad36Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad37Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofechad38Activity" />
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha1Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha2Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha3Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha4Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha5Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha6Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha7Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha8Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha9Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha10Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha11Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha12Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha13Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha14Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha15Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha16Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha17Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha18Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha19Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha20Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha21Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha22Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha23Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha24Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha25Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha26Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha27Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha28Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha29Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha30Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha31Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha32Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha33Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha34Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha35Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha36Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha37Activity" >
+        </activity>
+        <activity android:name="com.example.ligas14estadisticas.Calciofecha38Activity" >
+        </activity>
+        
+    </application>
+
+</manifest>

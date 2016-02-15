@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:orientation="vertical"
+    android:paddingTop="0dp" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top" >
+            
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="156dp"
+                android:layout_height="1070dp"
+                android:layout_x="320dp"
+                android:layout_y="0dp"
+                android:src="@drawable/lateral_calcio2_large" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="320dp"
+                android:layout_height="1070dp"
+                android:layout_x="0dp"
+                android:layout_y="0dp"
+                android:src="@drawable/fondo_ranking_calcio" />
+
+            <TextView
+                android:id="@+id/i1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="104dp"
+                android:text="Juventus"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="141dp"
+                android:text="Roma"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="177dp"
+                android:text="Nápoles"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="214dp"
+                android:text="Fiorentina"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="250dp"
+                android:text="Inter de Milán"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="287dp"
+                android:text="Parma"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="324dp"
+                android:text="Torino"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="360dp"
+                android:text="AC Milan"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="396dp"
+                android:text="Lazio"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="433dp"
+                android:text="Hellas Verona"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="469dp"
+                android:text="Atalanta"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="506dp"
+                android:text="Sampdoria"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="543dp"
+                android:text="Udinese"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="579dp"
+                android:text="Génova"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="616dp"
+                android:text="Cagliari"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="652dp"
+                android:text="Chievo Verona"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="689dp"
+                android:text="Sassuolo"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="727dp"
+                android:text="Empoli"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="763dp"
+                android:text="Cesena"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/i20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="799dp"
+                android:text="Palermo"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/pi1"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="104dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi2"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="141dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi3"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="177dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi4"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="214dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi5"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="250dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi6"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="287dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi7"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="324dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi8"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="360dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi9"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="396dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi10"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="433dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi11"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="469dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi12"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="506dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi13"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="543dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi14"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="579dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi15"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="616dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi16"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="652dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi17"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="689dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi18"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="727dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi19"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="763dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pi20"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="799dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+            
+            <TextView
+                android:id="@+id/il1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="901dp"
+                android:text=" "
+                android:textSize="16dp"
+                android:textStyle="bold" />
+            
+            <TextView
+                android:id="@+id/il2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="938dp"
+                android:text=" "
+                android:textSize="16dp"
+                android:textStyle="bold" />
+            
+            <TextView
+                android:id="@+id/il3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="974dp"
+                android:text=" "
+                android:textSize="16dp"
+                android:textStyle="bold" />
+            
+            <TextView
+                android:id="@+id/il4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="1011dp"
+                android:text=" "
+                android:textSize="16dp"
+                android:textStyle="bold" />
+            
+        </AbsoluteLayout>
+    </ScrollView>
+
+</AbsoluteLayout>

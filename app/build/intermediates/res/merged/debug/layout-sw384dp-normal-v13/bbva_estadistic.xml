@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:paddingTop="0dp" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="384dp"
+                android:layout_height="582dp"
+                android:src="@drawable/est_bbva_fondo" />
+
+            <Button
+                android:id="@+id/btnespest1"
+                android:layout_width="233dp"
+                android:layout_height="291dp"
+                android:background="@drawable/est_bbva1"
+                android:text="" />
+
+            <Button
+                android:id="@+id/btnespest2"
+                android:layout_width="149dp"
+                android:layout_height="292dp"
+                android:layout_x="235dp"
+                android:layout_y="0dp"
+                android:background="@drawable/btn_transp" />
+            
+            <Button
+                android:id="@+id/btnespest3"
+                android:layout_width="149dp"
+                android:layout_height="288dp"
+                android:layout_x="235dp"
+                android:layout_y="294dp"
+                android:background="@drawable/btn_transp" />
+            
+            <Button
+                android:id="@+id/btnespest4"
+                android:layout_width="233dp"
+                android:layout_height="123dp"
+                android:layout_x="0dp"
+                android:layout_y="294dp"
+                android:background="@drawable/btn_transp" />
+            
+            <Button
+                android:id="@+id/btnespest5"
+                android:layout_width="112dp"
+                android:layout_height="162dp"
+                android:layout_x="0dp"
+                android:layout_y="419dp"
+                android:background="@drawable/btn_transp" />
+            
+            <Button
+                android:id="@+id/btnespest6"
+                android:layout_width="116dp"
+                android:layout_height="162dp"
+                android:layout_x="115dp"
+                android:layout_y="419dp"
+                android:background="@drawable/btn_transp" />
+            
+        </AbsoluteLayout>
+    </ScrollView>
+
+</AbsoluteLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:orientation="vertical"
+    android:paddingTop="0dp" >
+    
+	 <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="350dp"
+                android:layout_height="445dp"
+                android:layout_x="0dp"
+                android:layout_y="10dp"
+                android:src="@drawable/bundes_page" />
+            
+             <ImageView
+                 android:id="@+id/imageViewsliderale"
+                 android:layout_width="168dp"
+                 android:layout_height="168dp"
+                 android:layout_x="87dp"
+                 android:layout_y="253dp" />
+
+            <Button
+                android:id="@+id/btnale1"
+                android:layout_width="170dp"
+                android:layout_height="47dp"
+                android:layout_x="1dp"
+                android:layout_y="12dp"
+                android:background="@drawable/but1"
+                android:text="Historia"
+                android:textColor="#00B9FF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnale2"
+                android:layout_width="170dp"
+                android:layout_height="92dp"
+                android:layout_x="1dp"
+                android:layout_y="66dp"
+                android:background="@drawable/but1"
+                android:text="Estadisticas 2013-2014"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnale3"
+                android:layout_width="170dp"
+                android:layout_height="47dp"
+                android:layout_x="1dp"
+                android:layout_y="164dp"
+                android:background="@drawable/but1"
+                android:text="Noticias"
+                android:textColor="#00B9FF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnale4"
+                android:layout_width="168dp"
+                android:layout_height="47dp"
+                android:layout_x="182dp"
+                android:layout_y="12dp"
+                android:background="@drawable/but1"
+                android:text="Ranking"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnale5"
+                android:layout_width="168dp"
+                android:layout_height="92dp"
+                android:layout_x="182dp"
+                android:layout_y="66dp"
+                android:background="@drawable/but1"
+                android:text="Jornadas"
+                android:textColor="#00B9FF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnale7"
+                android:layout_width="168dp"
+                android:layout_height="47dp"
+                android:layout_x="182dp"
+                android:layout_y="164dp"
+                android:background="@drawable/but1"
+                android:text="Detalles"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+        </AbsoluteLayout>
+    </ScrollView>
+    
+</AbsoluteLayout>

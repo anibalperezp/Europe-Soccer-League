@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:orientation="vertical"
+    android:paddingTop="0dp" >
+    
+	 <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="310dp"
+                android:layout_height="394dp"
+                android:layout_x="0dp"
+                android:layout_y="10dp"
+                android:src="@drawable/premier_page" />
+
+            <Button
+                android:id="@+id/btneng1"
+                android:layout_width="149dp"
+                android:layout_height="39dp"
+                android:layout_x="1dp"
+                android:layout_y="12dp"
+                android:background="@drawable/but1"
+                android:text="Historia"
+                android:textColor="#00B9FF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btneng2"
+                android:layout_width="149dp"
+                android:layout_height="80dp"
+                android:layout_x="1dp"
+                android:layout_y="59dp"
+                android:background="@drawable/but1"
+                android:text="Estadisticas 2013-2014"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btneng3"
+                android:layout_width="149dp"
+                android:layout_height="39dp"
+                android:layout_x="1dp"
+                android:layout_y="146dp"
+                android:background="@drawable/but1"
+                android:text="Noticias"
+                android:textColor="#00B9FF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btneng4"
+                android:layout_width="148dp"
+                android:layout_height="39dp"
+                android:layout_x="162dp"
+                android:layout_y="12dp"
+                android:background="@drawable/but1"
+                android:text="Ranking"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btneng5"
+                android:layout_width="148dp"
+                android:layout_height="80dp"
+                android:layout_x="162dp"
+                android:layout_y="59dp"
+                android:background="@drawable/but1"
+                android:text="Jornadas"
+                android:textColor="#00B9FF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btneng7"
+                android:layout_width="148dp"
+                android:layout_height="39dp"
+                android:layout_x="162dp"
+                android:layout_y="146dp"
+                android:background="@drawable/but1"
+                android:text="Detalles"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+        </AbsoluteLayout>
+    </ScrollView>
+    
+</AbsoluteLayout>

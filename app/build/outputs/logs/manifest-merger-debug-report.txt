@@ -1,0 +1,2017 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:2:1-927:12
+	xmlns:android
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:11:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:16:22-78
+application
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:18:5-925:19
+	android:label
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:20:9-41
+	android:theme
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:23:9-40
+	android:logo
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:22:9-41
+activity#com.example.ligas14estadisticas.Premierfechaj9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:25:13-82
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.ligas14estadisticas.NoticiasIntActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:32:20-33:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:32:30-96
+activity#com.example.ligas14estadisticas.SugerenciasActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:34:9-35:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:34:19-85
+activity#com.example.ligas14estadisticas.DetCalcioActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:36:9-37:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:36:19-83
+activity#com.example.ligas14estadisticas.DetPremierActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:38:9-39:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:38:19-84
+activity#com.example.ligas14estadisticas.DetBBVAActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:40:19-81
+activity#com.example.ligas14estadisticas.PremierRankingActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:42:9-43:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:42:19-88
+activity#com.example.ligas14estadisticas.DetbActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:44:9-45:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:44:19-78
+activity#com.example.ligas14estadisticas.SpainActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:46:9-47:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:46:19-79
+activity#com.example.ligas14estadisticas.AlemaniaActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:48:9-49:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:48:19-82
+activity#com.example.ligas14estadisticaslandActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:50:9-51:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:50:19-77
+activity#com.example.ligas14estadisticasliaActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:52:9-53:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:52:19-76
+activity#com.example.ligas14estadisticas.BBVAJornadasActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:54:9-55:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:54:19-86
+activity#com.example.ligas14estadisticas.PremierJornadasActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:56:9-57:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:56:19-89
+activity#com.example.ligas14estadisticas.CalcioJornadasActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:58:9-59:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:58:19-88
+activity#com.example.ligas14estadisticasesJornadasActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:60:9-61:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:60:19-83
+activity#com.example.ligas14estadisticas.NoticiasActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:62:9-63:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:62:19-82
+activity#com.example.ligas14estadisticas.NoticiasEspActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:64:9-65:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:64:19-85
+activity#com.example.ligas14estadisticas.NoticiasItaActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:66:9-67:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:66:19-85
+activity#com.example.ligas14estadisticas.NoticiasAleActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:68:9-69:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:68:19-85
+activity#com.example.ligas14estadisticas.Noticee1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:70:9-71:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:70:19-82
+activity#com.example.ligas14estadisticas.Noticee2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:72:9-73:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:72:19-82
+activity#com.example.ligas14estadisticas.Noticee3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:74:9-75:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:74:19-82
+activity#com.example.ligas14estadisticas.Noticee4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:76:9-77:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:76:19-82
+activity#com.example.ligas14estadisticas.Noticee5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:78:9-79:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:78:19-82
+activity#com.example.ligas14estadisticas.Noticee6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:80:9-81:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:80:19-82
+activity#com.example.ligas14estadisticas.Noticee7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:82:9-83:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:82:19-82
+activity#com.example.ligas14estadisticas.Noticee8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:84:9-85:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:84:19-82
+activity#com.example.ligas14estadisticas.Noticee9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:86:9-87:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:86:19-82
+activity#com.example.ligas14estadisticas.Noticee10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:88:9-89:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:88:19-83
+activity#com.example.ligas14estadisticas.Notices1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:90:9-91:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:90:19-82
+activity#com.example.ligas14estadisticas.Notices2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:92:9-93:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:92:19-82
+activity#com.example.ligas14estadisticas.Notices3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:94:9-95:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:94:19-82
+activity#com.example.ligas14estadisticas.Notices4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:96:9-97:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:96:19-82
+activity#com.example.ligas14estadisticas.Notices5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:98:9-99:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:98:19-82
+activity#com.example.ligas14estadisticas.Notices6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:100:9-101:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:100:19-82
+activity#com.example.ligas14estadisticas.Notices7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:102:9-103:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:102:19-82
+activity#com.example.ligas14estadisticas.Notices8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:104:9-105:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:104:19-82
+activity#com.example.ligas14estadisticas.Notices9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:106:9-107:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:106:19-82
+activity#com.example.ligas14estadisticas.Notices10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:108:9-109:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:108:19-83
+activity#com.example.ligas14estadisticas.Noticei1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:110:9-111:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:110:19-82
+activity#com.example.ligas14estadisticas.Noticei2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:112:9-113:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:112:19-82
+activity#com.example.ligas14estadisticas.Noticei3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:114:9-115:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:114:19-82
+activity#com.example.ligas14estadisticas.Noticei4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:116:9-117:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:116:19-82
+activity#com.example.ligas14estadisticas.Noticei5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:118:9-119:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:118:19-82
+activity#com.example.ligas14estadisticas.Noticei6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:120:9-121:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:120:19-82
+activity#com.example.ligas14estadisticas.Noticei7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:122:9-123:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:122:19-82
+activity#com.example.ligas14estadisticas.Noticei8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:124:9-125:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:124:19-82
+activity#com.example.ligas14estadisticas.Noticei9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:126:9-127:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:126:19-82
+activity#com.example.ligas14estadisticas.Noticei10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:128:9-129:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:128:19-83
+activity#com.example.ligas14estadisticas.Noticea1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:130:9-131:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:130:19-82
+activity#com.example.ligas14estadisticas.Noticea2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:132:9-133:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:132:19-82
+activity#com.example.ligas14estadisticas.Noticea3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:134:9-135:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:134:19-82
+activity#com.example.ligas14estadisticas.Noticea4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:136:9-137:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:136:19-82
+activity#com.example.ligas14estadisticas.Noticea5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:138:9-139:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:138:19-82
+activity#com.example.ligas14estadisticas.Noticea6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:140:9-141:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:140:19-82
+activity#com.example.ligas14estadisticas.Noticea7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:142:9-143:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:142:19-82
+activity#com.example.ligas14estadisticas.Noticea8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:144:9-145:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:144:19-82
+activity#com.example.ligas14estadisticas.Noticea9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:146:9-147:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:146:19-82
+activity#com.example.ligas14estadisticas.Noticea10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:148:9-149:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:148:19-83
+activity#com.example.ligas14estadisticas.NoticeInt1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:150:9-151:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:150:19-84
+activity#com.example.ligas14estadisticas.NoticeInt2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:152:9-153:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:152:19-84
+activity#com.example.ligas14estadisticas.NoticeInt3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:154:9-155:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:154:19-84
+activity#com.example.ligas14estadisticas.NoticeInt4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:156:9-157:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:156:19-84
+activity#com.example.ligas14estadisticas.NoticeInt5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:158:9-159:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:158:19-84
+activity#com.example.ligas14estadisticas.NoticeInt6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:160:9-161:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:160:19-84
+activity#com.example.ligas14estadisticas.NoticeInt7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:162:9-163:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:162:19-84
+activity#com.example.ligas14estadisticas.NoticeInt8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:164:9-165:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:164:19-84
+activity#com.example.ligas14estadisticas.NoticeInt9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:166:9-167:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:166:19-84
+activity#com.example.ligas14estadisticas.NoticeInt10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:168:9-169:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:168:19-85
+activity#com.example.ligas14estadisticas.RegistActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:170:9-171:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:170:19-80
+activity#com.example.ligas14estadisticas.BBVArankingActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:172:9-173:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:172:19-85
+activity#com.example.ligas14estadisticasesRankingActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:174:9-175:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:174:19-82
+activity#com.example.ligas14estadisticas.CalcioRankingActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:176:9-177:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:176:19-87
+activity#com.example.ligas14estadisticas.BBVAHistoriaActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:178:9-179:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:178:19-86
+activity#com.example.ligas14estadisticas.BBVAHistoriaTablaActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:180:9-181:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:180:19-91
+activity#com.example.ligas14estadisticasesHistoriaActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:182:9-183:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:182:19-83
+activity#com.example.ligas14estadisticasesHistoriaTablaActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:184:9-185:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:184:19-88
+activity#com.example.ligas14estadisticas.PremierHistoriaActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:186:9-187:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:186:19-89
+activity#com.example.ligas14estadisticas.CalcioHistoriaActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:188:9-189:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:188:19-88
+activity#com.example.ligas14estadisticas.BBVAEstadisticActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:190:9-191:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:190:19-88
+activity#com.example.ligas14estadisticasesEstadisticActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:192:9-193:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:192:19-85
+activity#com.example.ligas14estadisticas.PremierEstadisticActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:194:9-195:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:194:19-91
+activity#com.example.ligas14estadisticas.CalcioEstadisticActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:196:9-197:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:196:19-90
+activity#com.example.ligas14estadisticas.AyudaActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:198:9-199:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:198:19-79
+activity#com.example.ligas14estadisticas.Ayuda2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:200:9-201:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:200:19-80
+activity#com.example.ligas14estadisticas.PacksActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:202:9-203:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:202:19-79
+activity#com.example.ligas14estadisticas.Bundfecha1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:204:9-205:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:204:19-84
+activity#com.example.ligas14estadisticas.Bundfecha2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:206:9-207:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:206:19-84
+activity#com.example.ligas14estadisticas.Bundfecha3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:208:9-209:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:208:19-84
+activity#com.example.ligas14estadisticas.Bundfecha4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:210:9-211:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:210:19-84
+activity#com.example.ligas14estadisticas.Bundfecha5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:212:9-213:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:212:19-84
+activity#com.example.ligas14estadisticas.Bundfecha6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:214:9-215:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:214:19-84
+activity#com.example.ligas14estadisticas.Bundfecha7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:216:9-217:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:216:19-84
+activity#com.example.ligas14estadisticas.Bundfecha8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:218:9-219:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:218:19-84
+activity#com.example.ligas14estadisticas.Bundfecha9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:220:9-221:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:220:19-84
+activity#com.example.ligas14estadisticas.Bundfecha10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:222:9-223:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:222:19-85
+activity#com.example.ligas14estadisticas.Bundfecha11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:224:9-225:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:224:19-85
+activity#com.example.ligas14estadisticas.Bundfecha12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:226:9-227:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:226:19-85
+activity#com.example.ligas14estadisticas.Bundfecha13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:228:9-229:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:228:19-85
+activity#com.example.ligas14estadisticas.Bundfecha14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:230:9-231:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:230:19-85
+activity#com.example.ligas14estadisticas.Bundfecha15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:232:9-233:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:232:19-85
+activity#com.example.ligas14estadisticas.Bundfecha16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:234:9-235:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:234:19-85
+activity#com.example.ligas14estadisticas.Bundfecha17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:236:9-237:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:236:19-85
+activity#com.example.ligas14estadisticas.Bundfecha18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:238:9-239:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:238:19-85
+activity#com.example.ligas14estadisticas.Bundfecha19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:240:9-241:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:240:19-85
+activity#com.example.ligas14estadisticas.Bundfecha20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:242:9-243:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:242:19-85
+activity#com.example.ligas14estadisticas.Bundfecha21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:244:9-245:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:244:19-85
+activity#com.example.ligas14estadisticas.Bundfecha22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:246:9-247:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:246:19-85
+activity#com.example.ligas14estadisticas.Bundfecha23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:248:9-249:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:248:19-85
+activity#com.example.ligas14estadisticas.Bundfecha24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:250:9-251:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:250:19-85
+activity#com.example.ligas14estadisticas.Bundfecha25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:252:9-253:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:252:19-85
+activity#com.example.ligas14estadisticas.Bundfecha26Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:254:9-255:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:254:19-85
+activity#com.example.ligas14estadisticas.Bundfecha27Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:256:9-257:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:256:19-85
+activity#com.example.ligas14estadisticas.Bundfecha28Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:258:9-259:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:258:19-85
+activity#com.example.ligas14estadisticas.Bundfecha29Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:260:9-261:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:260:19-85
+activity#com.example.ligas14estadisticas.Bundfecha30Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:262:9-263:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:262:19-85
+activity#com.example.ligas14estadisticas.Bundfecha31Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:264:9-265:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:264:19-85
+activity#com.example.ligas14estadisticas.Bundfecha32Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:266:9-267:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:266:19-85
+activity#com.example.ligas14estadisticas.Bundfecha33Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:268:9-269:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:268:19-85
+activity#com.example.ligas14estadisticas.Bundfecha34Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:270:9-271:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:270:19-85
+activity#com.example.ligas14estadisticas.Bundfechad1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:272:9-273:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:272:19-85
+activity#com.example.ligas14estadisticas.Bundfechad2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:274:9-275:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:274:19-85
+activity#com.example.ligas14estadisticas.Bundfechad3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:276:9-277:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:276:19-85
+activity#com.example.ligas14estadisticas.Bundfechad4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:278:9-279:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:278:19-85
+activity#com.example.ligas14estadisticas.Bundfechad5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:280:9-281:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:280:19-85
+activity#com.example.ligas14estadisticas.Bundfechad6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:282:9-283:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:282:19-85
+activity#com.example.ligas14estadisticas.Bundfechad7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:284:9-285:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:284:19-85
+activity#com.example.ligas14estadisticas.Bundfechad8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:286:9-287:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:286:19-85
+activity#com.example.ligas14estadisticas.Bundfechad9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:288:9-289:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:288:19-85
+activity#com.example.ligas14estadisticas.Bundfechad10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:290:9-291:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:290:19-86
+activity#com.example.ligas14estadisticas.Bundfechad11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:292:9-293:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:292:19-86
+activity#com.example.ligas14estadisticas.Bundfechad12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:294:9-295:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:294:19-86
+activity#com.example.ligas14estadisticas.Bundfechad13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:296:9-297:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:296:19-86
+activity#com.example.ligas14estadisticas.Bundfechad14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:298:9-299:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:298:19-86
+activity#com.example.ligas14estadisticas.Bundfechad15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:300:9-301:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:300:19-86
+activity#com.example.ligas14estadisticas.Bundfechad16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:302:9-303:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:302:19-86
+activity#com.example.ligas14estadisticas.Bundfechad17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:304:9-305:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:304:19-86
+activity#com.example.ligas14estadisticas.Bundfechad18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:306:9-307:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:306:19-86
+activity#com.example.ligas14estadisticas.Bundfechad19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:308:9-309:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:308:19-86
+activity#com.example.ligas14estadisticas.Bundfechad20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:310:9-311:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:310:19-86
+activity#com.example.ligas14estadisticas.Bundfechad21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:312:9-313:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:312:19-86
+activity#com.example.ligas14estadisticas.Bundfechad22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:314:9-315:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:314:19-86
+activity#com.example.ligas14estadisticas.Bundfechad23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:316:9-317:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:316:19-86
+activity#com.example.ligas14estadisticas.Bundfechad24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:318:9-319:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:318:19-86
+activity#com.example.ligas14estadisticas.Bundfechad25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:320:9-321:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:320:19-86
+activity#com.example.ligas14estadisticas.Bundfechad26Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:322:9-323:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:322:19-86
+activity#com.example.ligas14estadisticas.Bundfechad27Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:324:9-325:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:324:19-86
+activity#com.example.ligas14estadisticas.Bundfechad28Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:326:9-327:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:326:19-86
+activity#com.example.ligas14estadisticas.Bundfechad29Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:328:9-329:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:328:19-86
+activity#com.example.ligas14estadisticas.Bundfechad30Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:330:9-331:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:330:19-86
+activity#com.example.ligas14estadisticas.Bundfechad31Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:332:9-333:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:332:19-86
+activity#com.example.ligas14estadisticas.Bundfechad32Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:334:9-335:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:334:19-86
+activity#com.example.ligas14estadisticas.Bundfechad33Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:336:9-337:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:336:19-86
+activity#com.example.ligas14estadisticas.Bundfechad34Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:338:9-339:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:338:19-86
+activity#com.example.ligas14estadisticas.BBVAfecha1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:340:9-341:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:340:19-84
+activity#com.example.ligas14estadisticas.BBVAfecha2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:342:9-343:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:342:19-84
+activity#com.example.ligas14estadisticas.BBVAfecha3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:344:9-345:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:344:19-84
+activity#com.example.ligas14estadisticas.BBVAfecha4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:346:9-347:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:346:19-84
+activity#com.example.ligas14estadisticas.BBVAfecha5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:348:9-349:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:348:19-84
+activity#com.example.ligas14estadisticas.BBVAfecha6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:350:9-351:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:350:19-84
+activity#com.example.ligas14estadisticas.BBVAfecha7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:352:9-353:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:352:19-84
+activity#com.example.ligas14estadisticas.BBVAfecha8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:354:9-355:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:354:19-84
+activity#com.example.ligas14estadisticas.BBVAfecha9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:356:9-357:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:356:19-84
+activity#com.example.ligas14estadisticas.BBVAfecha10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:358:9-359:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:358:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:360:9-361:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:360:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:362:9-363:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:362:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:364:9-365:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:364:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:366:9-367:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:366:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:368:9-369:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:368:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:370:9-371:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:370:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:372:9-373:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:372:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:374:9-375:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:374:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:376:9-377:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:376:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:378:9-379:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:378:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:380:9-381:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:380:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:382:9-383:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:382:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:384:9-385:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:384:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:386:9-387:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:386:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:388:9-389:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:388:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha26Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:390:9-391:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:390:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha27Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:392:9-393:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:392:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha28Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:394:9-395:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:394:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha29Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:396:9-397:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:396:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha30Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:398:9-399:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:398:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha31Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:400:9-401:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:400:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha32Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:402:9-403:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:402:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha33Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:404:9-405:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:404:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha34Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:406:9-407:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:406:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha35Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:408:9-409:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:408:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha36Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:410:9-411:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:410:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha37Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:412:9-413:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:412:19-85
+activity#com.example.ligas14estadisticas.BBVAfecha38Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:414:9-415:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:414:19-85
+receiver#com.example.ligas14estadisticas.BBVAfechaj9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:416:9-421:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:416:19-85
+intent-filter#android.intent.action.BOOT_COMPLETED+android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:417:9-420:87
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:418:9-74
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:418:17-71
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:420:9-71
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:420:17-68
+activity#com.example.ligas14estadisticas.BBVAfechad1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:422:9-423:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:422:19-85
+activity#com.example.ligas14estadisticas.BBVAfechad2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:424:9-425:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:424:19-85
+activity#com.example.ligas14estadisticas.BBVAfechad3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:426:9-427:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:426:19-85
+activity#com.example.ligas14estadisticas.BBVAfechad4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:428:9-429:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:428:19-85
+activity#com.example.ligas14estadisticas.BBVAfechad5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:430:9-431:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:430:19-85
+activity#com.example.ligas14estadisticas.BBVAfechad6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:432:9-433:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:432:19-85
+activity#com.example.ligas14estadisticas.BBVAfechad7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:434:9-435:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:434:19-85
+activity#com.example.ligas14estadisticas.BBVAfechad8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:436:9-437:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:436:19-85
+activity#com.example.ligas14estadisticas.BBVAfechad9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:438:9-439:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:438:19-85
+activity#com.example.ligas14estadisticas.BBVAfechad10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:440:9-441:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:440:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:442:9-443:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:442:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:444:9-445:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:444:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:446:9-447:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:446:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:448:9-449:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:448:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:450:9-451:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:450:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:452:9-453:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:452:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:454:9-455:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:454:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:456:9-457:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:456:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:458:9-459:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:458:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:460:9-461:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:460:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:462:9-463:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:462:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:464:9-465:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:464:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:466:9-467:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:466:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:468:9-469:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:468:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:470:9-471:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:470:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad26Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:472:9-473:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:472:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad27Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:474:9-475:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:474:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad28Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:476:9-477:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:476:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad29Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:478:9-479:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:478:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad30Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:480:9-481:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:480:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad31Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:482:9-483:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:482:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad32Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:484:9-485:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:484:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad33Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:486:9-487:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:486:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad34Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:488:9-489:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:488:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad35Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:490:9-491:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:490:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad36Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:492:9-493:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:492:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad37Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:494:9-495:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:494:19-86
+activity#com.example.ligas14estadisticas.BBVAfechad38Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:496:9-497:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:496:19-86
+activity#com.example.ligas14estadisticas.Premierfecha1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:498:9-499:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:498:19-87
+activity#com.example.ligas14estadisticas.CalcioHistoriaTablaActivity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:500:9-501:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:500:19-93
+activity#com.example.ligas14estadisticas.Bundfechaj1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:502:9-503:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:502:19-85
+activity#com.example.ligas14estadisticas.Bundfechaj2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:504:9-505:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:504:19-85
+activity#com.example.ligas14estadisticas.Bundfechaj3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:506:9-507:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:506:19-85
+activity#com.example.ligas14estadisticas.Bundfechaj4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:508:9-509:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:508:19-85
+activity#com.example.ligas14estadisticas.Bundfechaj5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:510:9-511:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:510:19-85
+activity#com.example.ligas14estadisticas.Bundfechaj6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:512:9-513:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:512:19-85
+activity#com.example.ligas14estadisticas.Bundfechaj7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:514:9-515:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:514:19-85
+activity#com.example.ligas14estadisticas.Bundfechaj8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:516:9-517:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:516:19-85
+activity#com.example.ligas14estadisticas.Bundfechaj9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:518:6-519:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:518:16-82
+activity#com.example.ligas14estadisticas.Bundfechaj10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:520:9-521:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:520:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:522:9-523:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:522:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:524:9-525:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:524:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:526:9-527:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:526:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:528:9-529:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:528:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:530:9-531:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:530:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:532:9-533:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:532:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:534:9-535:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:534:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:536:9-537:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:536:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:538:9-539:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:538:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:540:9-541:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:540:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:542:9-543:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:542:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:544:9-545:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:544:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:546:9-547:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:546:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:548:9-549:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:548:19-86
+activity#com.example.ligas14estadisticas.Bundfechaj25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:550:9-551:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:550:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:552:6-553:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:552:16-82
+activity#com.example.ligas14estadisticas.BBVAfechaj2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:554:9-555:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:554:19-85
+activity#com.example.ligas14estadisticas.BBVAfechaj3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:556:9-557:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:556:19-85
+activity#com.example.ligas14estadisticas.BBVAfechaj4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:558:9-559:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:558:19-85
+activity#com.example.ligas14estadisticas.BBVAfechaj5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:560:9-561:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:560:19-85
+activity#com.example.ligas14estadisticas.BBVAfechaj6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:562:9-563:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:562:19-85
+activity#com.example.ligas14estadisticas.BBVAfechaj7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:564:9-565:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:564:19-85
+activity#com.example.ligas14estadisticas.BBVAfechaj8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:566:9-567:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:566:19-85
+activity#com.example.ligas14estadisticas.BBVAfechaj10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:568:9-569:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:568:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:570:9-571:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:570:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:572:9-573:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:572:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:574:9-575:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:574:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:576:9-577:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:576:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:578:9-579:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:578:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:580:9-581:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:580:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:582:9-583:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:582:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:584:9-585:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:584:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:586:9-587:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:586:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:588:9-589:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:588:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:590:9-591:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:590:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:592:9-593:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:592:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:594:9-595:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:594:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:596:9-597:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:596:19-86
+activity#com.example.ligas14estadisticas.BBVAfechaj25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:598:9-599:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:598:19-86
+activity#com.example.ligas14estadisticas.Calciofechaj1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:600:3-601:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:600:13-81
+activity#com.example.ligas14estadisticas.Calciofechaj2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:602:9-603:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:602:19-87
+activity#com.example.ligas14estadisticas.Calciofechaj3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:604:9-605:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:604:19-87
+activity#com.example.ligas14estadisticas.Calciofechaj4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:606:9-607:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:606:19-87
+activity#com.example.ligas14estadisticas.Calciofechaj5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:608:9-609:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:608:19-87
+activity#com.example.ligas14estadisticas.Calciofechaj6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:610:9-611:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:610:19-87
+activity#com.example.ligas14estadisticas.Calciofechaj7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:612:9-613:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:612:19-87
+activity#com.example.ligas14estadisticas.Calciofechaj8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:614:9-615:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:614:19-87
+activity#com.example.ligas14estadisticas.Calciofechaj9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:616:3-617:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:616:13-81
+activity#com.example.ligas14estadisticas.Calciofechaj10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:618:9-619:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:618:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:620:9-621:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:620:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:622:9-623:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:622:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:624:9-625:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:624:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:626:9-627:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:626:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:628:9-629:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:628:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:630:9-631:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:630:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:632:9-633:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:632:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:634:9-635:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:634:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:636:9-637:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:636:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:638:9-639:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:638:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:640:9-641:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:640:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:642:9-643:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:642:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:644:9-645:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:644:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:646:9-647:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:646:19-88
+activity#com.example.ligas14estadisticas.Calciofechaj25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:648:9-649:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:648:19-88
+activity#com.example.ligas14estadisticas.Premierfechaj1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:650:3-651:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:650:13-82
+activity#com.example.ligas14estadisticas.Premierfechaj2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:652:9-653:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:652:19-88
+activity#com.example.ligas14estadisticas.Premierfechaj3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:654:9-655:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:654:19-88
+activity#com.example.ligas14estadisticas.Premierfechaj4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:656:9-657:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:656:19-88
+activity#com.example.ligas14estadisticas.Premierfechaj5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:658:9-659:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:658:19-88
+activity#com.example.ligas14estadisticas.Premierfechaj6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:660:9-661:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:660:19-88
+activity#com.example.ligas14estadisticas.Premierfechaj7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:662:9-663:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:662:19-88
+activity#com.example.ligas14estadisticas.Premierfechaj8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:664:9-665:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:664:19-88
+activity#com.example.ligas14estadisticas.Premierfechaj10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:666:9-667:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:666:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:668:9-669:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:668:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:670:9-671:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:670:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:672:9-673:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:672:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:674:9-675:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:674:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:676:9-677:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:676:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:678:9-679:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:678:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:680:9-681:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:680:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:682:9-683:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:682:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:684:9-685:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:684:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:686:9-687:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:686:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:688:9-689:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:688:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:690:9-691:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:690:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:692:9-693:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:692:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:694:9-695:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:694:19-89
+activity#com.example.ligas14estadisticas.Premierfechaj25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:696:9-697:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:696:19-89
+activity#com.example.ligas14estadisticas.Premierfecha2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:698:9-699:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:698:19-87
+activity#com.example.ligas14estadisticas.Premierfecha3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:700:9-701:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:700:19-87
+activity#com.example.ligas14estadisticas.Premierfecha4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:702:9-703:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:702:19-87
+activity#com.example.ligas14estadisticas.Premierfecha5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:704:9-705:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:704:19-87
+activity#com.example.ligas14estadisticas.Premierfecha6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:706:9-707:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:706:19-87
+activity#com.example.ligas14estadisticas.Premierfecha7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:708:9-709:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:708:19-87
+activity#com.example.ligas14estadisticas.Premierfecha8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:710:9-711:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:710:19-87
+activity#com.example.ligas14estadisticas.Premierfecha9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:712:9-713:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:712:19-87
+activity#com.example.ligas14estadisticas.Premierfecha10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:714:9-715:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:714:19-88
+activity#com.example.ligas14estadisticas.Premierfecha11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:716:9-717:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:716:19-88
+activity#com.example.ligas14estadisticas.Premierfecha12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:718:9-719:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:718:19-88
+activity#com.example.ligas14estadisticas.Premierfecha13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:720:9-721:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:720:19-88
+activity#com.example.ligas14estadisticas.Premierfecha14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:722:9-723:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:722:19-88
+activity#com.example.ligas14estadisticas.Premierfecha15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:724:9-725:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:724:19-88
+activity#com.example.ligas14estadisticas.Premierfecha16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:726:9-727:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:726:19-88
+activity#com.example.ligas14estadisticas.Premierfecha17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:728:9-729:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:728:19-88
+activity#com.example.ligas14estadisticas.Premierfecha18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:730:9-731:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:730:19-88
+activity#com.example.ligas14estadisticas.Premierfecha19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:732:9-733:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:732:19-88
+activity#com.example.ligas14estadisticas.Premierfecha20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:734:9-735:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:734:19-88
+activity#com.example.ligas14estadisticas.Premierfecha21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:736:9-737:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:736:19-88
+activity#com.example.ligas14estadisticas.Premierfecha22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:738:9-739:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:738:19-88
+activity#com.example.ligas14estadisticas.Premierfecha23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:740:9-741:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:740:19-88
+activity#com.example.ligas14estadisticas.Premierfecha24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:742:9-743:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:742:19-88
+activity#com.example.ligas14estadisticas.Premierfecha25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:744:9-745:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:744:19-88
+activity#com.example.ligas14estadisticas.Premierfecha26Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:746:9-747:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:746:19-88
+activity#com.example.ligas14estadisticas.Premierfecha27Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:748:9-749:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:748:19-88
+activity#com.example.ligas14estadisticas.Premierfecha28Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:750:9-751:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:750:19-88
+activity#com.example.ligas14estadisticas.Premierfecha29Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:752:9-753:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:752:19-88
+activity#com.example.ligas14estadisticas.Premierfecha30Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:754:9-755:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:754:19-88
+activity#com.example.ligas14estadisticas.Premierfecha31Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:756:9-757:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:756:19-88
+activity#com.example.ligas14estadisticas.Premierfecha32Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:758:9-759:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:758:19-88
+activity#com.example.ligas14estadisticas.Premierfecha33Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:760:9-761:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:760:19-88
+activity#com.example.ligas14estadisticas.Premierfecha34Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:762:9-763:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:762:19-88
+activity#com.example.ligas14estadisticas.Premierfecha35Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:764:9-765:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:764:19-88
+activity#com.example.ligas14estadisticas.Premierfecha36Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:766:9-767:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:766:19-88
+activity#com.example.ligas14estadisticas.Premierfecha37Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:768:9-769:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:768:19-88
+activity#com.example.ligas14estadisticas.Premierfecha38Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:770:9-771:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:770:19-88
+activity#com.example.ligas14estadisticas.Premierfechad1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:772:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:772:19-88
+activity#com.example.ligas14estadisticas.Premierfechad2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:773:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:773:19-88
+activity#com.example.ligas14estadisticas.Premierfechad3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:774:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:774:19-88
+activity#com.example.ligas14estadisticas.Premierfechad4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:775:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:775:19-88
+activity#com.example.ligas14estadisticas.Premierfechad5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:776:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:776:19-88
+activity#com.example.ligas14estadisticas.Premierfechad6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:777:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:777:19-88
+activity#com.example.ligas14estadisticas.Premierfechad7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:778:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:778:19-88
+activity#com.example.ligas14estadisticas.Premierfechad8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:779:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:779:19-88
+activity#com.example.ligas14estadisticas.Premierfechad9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:780:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:780:19-88
+activity#com.example.ligas14estadisticas.Premierfechad10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:781:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:781:19-89
+activity#com.example.ligas14estadisticas.Premierfechad11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:782:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:782:19-89
+activity#com.example.ligas14estadisticas.Premierfechad12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:783:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:783:19-89
+activity#com.example.ligas14estadisticas.Premierfechad13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:784:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:784:19-89
+activity#com.example.ligas14estadisticas.Premierfechad14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:785:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:785:19-89
+activity#com.example.ligas14estadisticas.Premierfechad15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:786:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:786:19-89
+activity#com.example.ligas14estadisticas.Premierfechad16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:787:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:787:19-89
+activity#com.example.ligas14estadisticas.Premierfechad17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:788:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:788:19-89
+activity#com.example.ligas14estadisticas.Premierfechad18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:789:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:789:19-89
+activity#com.example.ligas14estadisticas.Premierfechad19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:790:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:790:19-89
+activity#com.example.ligas14estadisticas.Premierfechad20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:791:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:791:19-89
+activity#com.example.ligas14estadisticas.Premierfechad21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:792:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:792:19-89
+activity#com.example.ligas14estadisticas.Premierfechad22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:793:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:793:19-89
+activity#com.example.ligas14estadisticas.Premierfechad23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:794:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:794:19-89
+activity#com.example.ligas14estadisticas.Premierfechad24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:795:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:795:19-89
+activity#com.example.ligas14estadisticas.Premierfechad25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:796:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:796:19-89
+activity#com.example.ligas14estadisticas.Premierfechad26Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:797:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:797:19-89
+activity#com.example.ligas14estadisticas.Premierfechad27Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:798:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:798:19-89
+activity#com.example.ligas14estadisticas.Premierfechad28Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:799:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:799:19-89
+activity#com.example.ligas14estadisticas.Premierfechad29Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:800:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:800:19-89
+activity#com.example.ligas14estadisticas.Premierfechad30Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:801:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:801:19-89
+activity#com.example.ligas14estadisticas.Premierfechad31Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:802:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:802:19-89
+activity#com.example.ligas14estadisticas.Premierfechad32Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:803:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:803:19-89
+activity#com.example.ligas14estadisticas.Premierfechad33Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:804:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:804:19-89
+activity#com.example.ligas14estadisticas.Premierfechad34Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:805:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:805:19-89
+activity#com.example.ligas14estadisticas.Premierfechad35Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:806:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:806:19-89
+activity#com.example.ligas14estadisticas.Premierfechad36Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:807:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:807:19-89
+activity#com.example.ligas14estadisticas.Premierfechad37Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:808:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:808:19-89
+activity#com.example.ligas14estadisticas.Premierfechad38Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:809:9-92
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:809:19-89
+activity#com.example.ligas14estadisticas.Calciofechad1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:810:9-90
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:810:19-87
+activity#com.example.ligas14estadisticas.Calciofechad2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:811:9-90
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:811:19-87
+activity#com.example.ligas14estadisticas.Calciofechad3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:812:9-90
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:812:19-87
+activity#com.example.ligas14estadisticas.Calciofechad4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:813:9-90
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:813:19-87
+activity#com.example.ligas14estadisticas.Calciofechad5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:814:9-90
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:814:19-87
+activity#com.example.ligas14estadisticas.Calciofechad6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:815:9-90
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:815:19-87
+activity#com.example.ligas14estadisticas.Calciofechad7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:816:9-90
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:816:19-87
+activity#com.example.ligas14estadisticas.Calciofechad8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:817:9-90
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:817:19-87
+activity#com.example.ligas14estadisticas.Calciofechad9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:818:9-90
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:818:19-87
+activity#com.example.ligas14estadisticas.Calciofechad10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:819:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:819:19-88
+activity#com.example.ligas14estadisticas.Calciofechad11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:820:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:820:19-88
+activity#com.example.ligas14estadisticas.Calciofechad12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:821:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:821:19-88
+activity#com.example.ligas14estadisticas.Calciofechad13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:822:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:822:19-88
+activity#com.example.ligas14estadisticas.Calciofechad14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:823:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:823:19-88
+activity#com.example.ligas14estadisticas.Calciofechad15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:824:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:824:19-88
+activity#com.example.ligas14estadisticas.Calciofechad16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:825:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:825:19-88
+activity#com.example.ligas14estadisticas.Calciofechad17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:826:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:826:19-88
+activity#com.example.ligas14estadisticas.Calciofechad18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:827:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:827:19-88
+activity#com.example.ligas14estadisticas.Calciofechad19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:828:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:828:19-88
+activity#com.example.ligas14estadisticas.Calciofechad20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:829:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:829:19-88
+activity#com.example.ligas14estadisticas.Calciofechad21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:830:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:830:19-88
+activity#com.example.ligas14estadisticas.Calciofechad22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:831:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:831:19-88
+activity#com.example.ligas14estadisticas.Calciofechad23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:832:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:832:19-88
+activity#com.example.ligas14estadisticas.Calciofechad24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:833:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:833:19-88
+activity#com.example.ligas14estadisticas.Calciofechad25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:834:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:834:19-88
+activity#com.example.ligas14estadisticas.Calciofechad26Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:835:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:835:19-88
+activity#com.example.ligas14estadisticas.Calciofechad27Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:836:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:836:19-88
+activity#com.example.ligas14estadisticas.Calciofechad28Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:837:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:837:19-88
+activity#com.example.ligas14estadisticas.Calciofechad29Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:838:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:838:19-88
+activity#com.example.ligas14estadisticas.Calciofechad30Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:839:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:839:19-88
+activity#com.example.ligas14estadisticas.Calciofechad31Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:840:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:840:19-88
+activity#com.example.ligas14estadisticas.Calciofechad32Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:841:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:841:19-88
+activity#com.example.ligas14estadisticas.Calciofechad33Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:842:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:842:19-88
+activity#com.example.ligas14estadisticas.Calciofechad34Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:843:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:843:19-88
+activity#com.example.ligas14estadisticas.Calciofechad35Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:844:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:844:19-88
+activity#com.example.ligas14estadisticas.Calciofechad36Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:845:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:845:19-88
+activity#com.example.ligas14estadisticas.Calciofechad37Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:846:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:846:19-88
+activity#com.example.ligas14estadisticas.Calciofechad38Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:847:9-91
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:847:19-88
+activity#com.example.ligas14estadisticas.Calciofecha1Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:848:9-849:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:848:19-86
+activity#com.example.ligas14estadisticas.Calciofecha2Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:850:9-851:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:850:19-86
+activity#com.example.ligas14estadisticas.Calciofecha3Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:852:9-853:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:852:19-86
+activity#com.example.ligas14estadisticas.Calciofecha4Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:854:9-855:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:854:19-86
+activity#com.example.ligas14estadisticas.Calciofecha5Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:856:9-857:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:856:19-86
+activity#com.example.ligas14estadisticas.Calciofecha6Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:858:9-859:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:858:19-86
+activity#com.example.ligas14estadisticas.Calciofecha7Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:860:9-861:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:860:19-86
+activity#com.example.ligas14estadisticas.Calciofecha8Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:862:9-863:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:862:19-86
+activity#com.example.ligas14estadisticas.Calciofecha9Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:864:9-865:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:864:19-86
+activity#com.example.ligas14estadisticas.Calciofecha10Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:866:9-867:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:866:19-87
+activity#com.example.ligas14estadisticas.Calciofecha11Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:868:9-869:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:868:19-87
+activity#com.example.ligas14estadisticas.Calciofecha12Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:870:9-871:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:870:19-87
+activity#com.example.ligas14estadisticas.Calciofecha13Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:872:9-873:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:872:19-87
+activity#com.example.ligas14estadisticas.Calciofecha14Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:874:9-875:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:874:19-87
+activity#com.example.ligas14estadisticas.Calciofecha15Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:876:9-877:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:876:19-87
+activity#com.example.ligas14estadisticas.Calciofecha16Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:878:9-879:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:878:19-87
+activity#com.example.ligas14estadisticas.Calciofecha17Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:880:9-881:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:880:19-87
+activity#com.example.ligas14estadisticas.Calciofecha18Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:882:9-883:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:882:19-87
+activity#com.example.ligas14estadisticas.Calciofecha19Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:884:9-885:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:884:19-87
+activity#com.example.ligas14estadisticas.Calciofecha20Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:886:9-887:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:886:19-87
+activity#com.example.ligas14estadisticas.Calciofecha21Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:888:9-889:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:888:19-87
+activity#com.example.ligas14estadisticas.Calciofecha22Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:890:9-891:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:890:19-87
+activity#com.example.ligas14estadisticas.Calciofecha23Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:892:9-893:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:892:19-87
+activity#com.example.ligas14estadisticas.Calciofecha24Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:894:9-895:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:894:19-87
+activity#com.example.ligas14estadisticas.Calciofecha25Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:896:9-897:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:896:19-87
+activity#com.example.ligas14estadisticas.Calciofecha26Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:898:9-899:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:898:19-87
+activity#com.example.ligas14estadisticas.Calciofecha27Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:900:9-901:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:900:19-87
+activity#com.example.ligas14estadisticas.Calciofecha28Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:902:9-903:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:902:19-87
+activity#com.example.ligas14estadisticas.Calciofecha29Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:904:9-905:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:904:19-87
+activity#com.example.ligas14estadisticas.Calciofecha30Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:906:9-907:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:906:19-87
+activity#com.example.ligas14estadisticas.Calciofecha31Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:908:9-909:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:908:19-87
+activity#com.example.ligas14estadisticas.Calciofecha32Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:910:9-911:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:910:19-87
+activity#com.example.ligas14estadisticas.Calciofecha33Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:912:9-913:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:912:19-87
+activity#com.example.ligas14estadisticas.Calciofecha34Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:914:9-915:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:914:19-87
+activity#com.example.ligas14estadisticas.Calciofecha35Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:916:9-917:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:916:19-87
+activity#com.example.ligas14estadisticas.Calciofecha36Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:918:9-919:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:918:19-87
+activity#com.example.ligas14estadisticas.Calciofecha37Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:920:9-921:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:920:19-87
+activity#com.example.ligas14estadisticas.Calciofecha38Activity
+ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:922:9-923:20
+	android:name
+		ADDED from C:\Users\Owner\StudioProjects\Ligas14Estadisticas\app\src\main\AndroidManifest.xml:922:19-87

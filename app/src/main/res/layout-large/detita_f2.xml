@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:orientation="vertical"
+    android:paddingTop="4dp" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top" >
+            
+            <Button
+                android:id="@+id/btnitad"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="0dp"
+                android:background="#B20036"
+                android:text="Enero"
+                android:textSize="18dp" android:textColor="#FFFF"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnitad17"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="38dp"
+                android:background="@drawable/btnj1"
+                android:text="Martes 6 (Jornada 17)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad18"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="76dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 11 (Jornada 18)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+
+            <Button
+                android:id="@+id/btnitad19"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="114dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 18 (Jornada 19)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad20"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="152dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 25 (Jornada 20)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="190dp"
+                android:background="#50A200"
+                android:text="Febrero"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnitad21"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="228dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 1 (Jornada 21)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad22"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="266dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 8 (Jornada 22)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad23"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="304dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 15 (Jornada 23)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad24"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="342dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 22 (Jornada 24)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="380dp"
+                android:background="#6D5C94"
+                android:text="Marzo"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnitad25"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="418dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 1 (Jornada 25)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad26"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="456dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 8 (Jornada 26)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad27"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="494dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 15 (Jornada 27)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad28"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="532dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 22 (Jornada 28)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="570dp"
+                android:background="#DE5D94"
+                android:text="Abril"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnitad29"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="608dp"
+                android:background="@drawable/btnj1"
+                android:text="Sábado 4 (Jornada 29)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad30"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="646dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 12 (Jornada 30)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad31"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="684dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 19 (Jornada 31)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad32"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="722dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 26 (Jornada 32)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad33"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="760dp"
+                android:background="@drawable/btnj1"
+                android:text="Miércoles 29 (Jornada 33)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad34"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="836dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 3 (Jornada 34)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="798dp"
+                android:background="#005677"
+                android:text="Mayo"
+                android:textColor="#FFFF"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/btnitad35"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="874dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 10 (Jornada 35)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad36"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="912dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 17 (Jornada 36)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad37"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="950dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 24 (Jornada 37)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+            <Button
+                android:id="@+id/btnitad38"
+                android:layout_width="480dp"
+                android:layout_height="36dp"
+                android:layout_x="0dp"
+                android:layout_y="988dp"
+                android:background="@drawable/btnj1"
+                android:text="Domingo 31 (Jornada 38)"
+                android:textColor="#FFFF"
+                android:textSize="15dp" />
+            
+        </AbsoluteLayout>
+    </ScrollView>
+
+</AbsoluteLayout>

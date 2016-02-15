@@ -1,0 +1,97 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".app000197sport" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="460dp"
+                android:layout_height="654dp"
+                android:layout_x="0dp"
+                android:layout_y="0dp"
+                android:src="@drawable/p_principal" />
+
+            <Button
+                android:id="@+id/buttonp1"
+                android:layout_width="167dp"
+                android:layout_height="48dp"
+                android:layout_x="146dp"
+                android:layout_y="304dp"
+                android:background="@drawable/aps3" />
+
+            <Button
+                android:id="@+id/buttonp2"
+                android:layout_width="325dp"
+                android:layout_height="144dp"
+                android:layout_x="67dp"
+                android:layout_y="14dp"
+                android:background="@drawable/but1" />
+
+            <Button
+                android:id="@+id/buttonp3"
+                android:layout_width="330dp"
+                android:layout_height="144dp"
+                android:layout_x="65dp"
+                android:layout_y="500dp"
+                android:background="@drawable/but1" />
+
+            <Button
+                android:id="@+id/buttonp4"
+                android:layout_width="93dp"
+                android:layout_height="307dp"
+                android:layout_x="8dp"
+                android:layout_y="177dp"
+                android:background="@drawable/but1" />
+
+            <Button
+                android:id="@+id/buttonp5"
+                android:layout_width="93dp"
+                android:layout_height="304dp"
+                android:layout_x="356dp"
+                android:layout_y="177dp"
+                android:background="@drawable/but1" />
+
+            <Button
+                android:id="@+id/buttonp6"
+                android:layout_width="194dp"
+                android:layout_height="112dp"
+                android:layout_x="133dp"
+                android:layout_y="190dp"
+                android:background="@drawable/but1" />
+
+            <Button
+                android:id="@+id/buttonp7"
+                android:layout_width="93dp"
+                android:layout_height="115dp"
+                android:layout_x="136dp"
+                android:layout_y="354dp"
+                android:background="@drawable/but1" />
+
+            <Button
+                android:id="@+id/buttonp8"
+                android:layout_width="93dp"
+                android:layout_height="115dp"
+                android:layout_x="234dp"
+                android:layout_y="354dp"
+                android:background="@drawable/but1" />
+        </AbsoluteLayout>
+    </ScrollView>
+
+</AbsoluteLayout>

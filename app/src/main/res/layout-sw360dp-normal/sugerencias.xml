@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:orientation="vertical"
+    android:paddingTop="0dp"
+    tools:context=".app000102sport" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="360dp"
+                android:layout_height="520dp"
+                android:layout_x="0dp"
+                android:layout_y="0dp"
+                android:src="@drawable/quejas" />
+
+            <EditText
+                android:id="@+id/editTextsujerencia"
+                android:layout_width="338dp"
+                android:layout_height="124dp"
+                android:layout_x="11dp"
+                android:layout_y="158dp"
+                android:ems="10"
+                android:gravity="top|left"
+                android:inputType="textMultiLine"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/buttonsugerencias1"
+                android:layout_width="338dp"
+                android:layout_height="wrap_content"
+                android:layout_x="11dp"
+                android:layout_y="281dp"
+                android:text="Enviar" />
+        </AbsoluteLayout>
+    </ScrollView>
+
+</AbsoluteLayout>

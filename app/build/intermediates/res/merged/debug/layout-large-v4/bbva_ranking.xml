@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:orientation="vertical"
+    android:paddingTop="0dp" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top" >
+            
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="156dp"
+                android:layout_height="1070dp"
+                android:layout_x="320dp"
+                android:layout_y="0dp"
+                android:src="@drawable/lateral_bbva2_large" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="320dp"
+                android:layout_height="1070dp"
+                android:layout_x="0dp"
+                android:layout_y="0dp"
+                android:src="@drawable/fondo_ranking_bbva" />
+
+            <TextView
+                android:id="@+id/s1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="104dp"
+                android:text="Atlético de Madrid"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="141dp"
+                android:text="FC Barcelona"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="177dp"
+                android:text="Real Madrid"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="214dp"
+                android:text="Athletic Club"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="250dp"
+                android:text="Sevilla"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="287dp"
+                android:text="Villarreal"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="324dp"
+                android:text="Real Sociedad"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="360dp"
+                android:text="Valencia"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="396dp"
+                android:text="Celta de Vigo"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="433dp"
+                android:text="Levante"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="469dp"
+                android:text="Málaga"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="506dp"
+                android:text="Rayo Vallecano"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="543dp"
+                android:text="Getafe"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="579dp"
+                android:text="RCD Espanyol"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="616dp"
+                android:text="Granada"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="652dp"
+                android:text="Elche"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="689dp"
+                android:text="Almería"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="727dp"
+                android:text="Depor. de La Coruña"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="763dp"
+                android:text="Eibar"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="799dp"
+                android:text="Córdoba"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/ps1"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="104dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps2"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="141dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps3"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="177dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps4"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="214dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps5"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="250dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps6"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="287dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps7"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="324dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps8"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="360dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps9"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="396dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps10"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="433dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps11"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="469dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps12"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="506dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps13"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="543dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps14"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="579dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps15"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="616dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps16"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="652dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps17"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="689dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps18"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="727dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps19"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="763dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ps20"
+                android:layout_width="40dp"
+                android:layout_height="22dp"
+                android:layout_x="263dp"
+                android:layout_y="799dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="0" android:maxLength="3"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+            
+            <TextView
+                android:id="@+id/sl1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="901dp"
+                android:text="Cristiano Ronaldo (45)"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+            
+            <TextView
+                android:id="@+id/sl2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="938dp"
+                android:text="Leo Messi (42)"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+            
+            <TextView
+                android:id="@+id/sl3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="974dp"
+                android:text="Diego Costa (39)"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+            
+            <TextView
+                android:id="@+id/sl4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_x="65dp"
+                android:layout_y="1011dp"
+                android:text="Benzema (30)"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+            
+        </AbsoluteLayout>
+    </ScrollView>
+
+</AbsoluteLayout>

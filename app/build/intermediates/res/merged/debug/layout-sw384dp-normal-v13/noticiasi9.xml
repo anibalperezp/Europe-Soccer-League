@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:paddingTop="0dp" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:scrollbars="none" >
+
+        <AbsoluteLayout
+            android:id="@+id/absoluteLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="384dp"
+                android:layout_height="576dp"
+                android:src="@drawable/fondo_noticias_calcio" />
+
+            <EditText
+                android:id="@+id/rowi9"
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:layout_x="52dp"
+                android:layout_y="80dp"
+                android:background="@drawable/noticias_fondo"
+                android:cursorVisible="false"
+                android:ems="10"
+                android:inputType="textMultiLine"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp"
+                android:textColor="#ffffff" />
+
+        </AbsoluteLayout>
+    </ScrollView>
+
+</AbsoluteLayout>
